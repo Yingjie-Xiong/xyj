@@ -1,4 +1,3 @@
-the file is a learning note of pandas
-it mainly came from a blog from csdn
-it also contains other blogs from csdn
-it can be download and run directly
+The file is a learning note of pandas、matplotlib and numpy.
+It came from blogs from csdn.
+It can be download and run directly.
